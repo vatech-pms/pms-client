@@ -7,3 +7,5 @@
 1. Go to the directory `cd ./pms-client/`.
 1. Install all dependecies `npm install` (`npm` was installed along with `Node.js`).
 1. Run development server `npm run dev`.
+
+Updated
